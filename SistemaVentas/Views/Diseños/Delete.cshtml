@@ -14,14 +14,6 @@
     <hr />
     <dl class="dl-horizontal">
         <dt>
-            @Html.DisplayNameFor(model => model.TipoDiseno.NombreTipo)
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.TipoDiseno.NombreTipo)
-        </dd>
-
-        <dt>
             @Html.DisplayNameFor(model => model.Descripcion)
         </dt>
 
@@ -42,7 +34,7 @@
         </dt>
 
         <dd>
-            @Html.DisplayFor(model => model.Imagen)
+            <img width="200" src="@Url.Action("getImage", "Diseños", new {id = Model.DiseñoID})" />
         </dd>
 
     </dl>
