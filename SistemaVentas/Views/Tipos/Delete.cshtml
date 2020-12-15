@@ -1,0 +1,37 @@
+﻿@model Maro.Models.Tipo
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h1>Eliminar</h1>
+
+<br />
+
+<h3>¿Estás seguro de eliminar el siguiente tipo de diseño?</h3>
+<div>
+    <!-- <h4>Tipo</h4> !-->
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NombreTipo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NombreTipo)
+        </dd>
+
+    </dl>
+
+    <br />
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            @Html.ActionLink("Regresar a la lista", "Index") |
+            <input type="submit" value="Eliminar" class="btn btn-default" />
+        </div>
+    }
+</div>

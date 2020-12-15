@@ -1,0 +1,26 @@
+﻿@model Maro.Models.Tipo
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h1>Detalles sobre: @Html.DisplayFor(model => model.NombreTipo)</h1>
+
+<div>
+    <!-- <h4>Tipo</h4> !-->
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NombreTipo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NombreTipo)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Editar", new { id = Model.TipoID }) |
+    @Html.ActionLink("Regresar a la lista", "Index")
+</p>

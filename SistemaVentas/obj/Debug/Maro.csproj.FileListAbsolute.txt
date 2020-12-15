@@ -1,0 +1,3 @@
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\obj\Debug\Maro.csprojAssemblyReference.cache
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.pdb

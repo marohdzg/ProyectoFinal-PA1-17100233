@@ -1,0 +1,52 @@
+﻿@model IEnumerable<SistemaVentas.Models.Transaccion>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h1>Transacciones</h1>
+
+<br />
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Cliente.Nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Diseño.Descripcion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FechaTransaccion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Cantidad)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Total)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cliente.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Diseño.Descripcion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaTransaccion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cantidad)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Total)
+            </td>
+        </tr>
+    }
+
+</table>

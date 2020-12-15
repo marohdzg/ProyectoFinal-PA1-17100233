@@ -1,0 +1,116 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="~/Content/production/images/favicon.ico" type="image/ico" />
+
+    <title>Maro</title>
+
+    @Styles.Render("~/Template/css")
+    <style>
+        .dl-horizontal {
+            display: inline-block;
+        }
+    </style>
+</head>
+
+<body class="nav-md">
+    <div class="container body">
+        <div class="main_container">
+            <div class="col-md-3 left_col">
+                <div class="left_col scroll-view">
+                    <div class="navbar nav_title" style="border: 0;">
+                        <a href="@Url.Action("Index","Diseños")" class="site_title"><i class="fa fa-paint-brush"></i> <span>Maro</span></a>
+                    </div>
+
+                    <div class="clearfix"></div>
+
+                    <!-- menu profile quick info -->
+                    <div class="profile clearfix">
+                        <div class="profile_pic">
+                            <img src="~/Content/production/images/maro.jpg" alt="..." class="img-circle profile_img">
+                        </div>
+
+                        <div class="profile_info">
+                            <span>Bienvenido,</span>
+
+
+                            <h2>17100233</h2>
+
+
+                        </div>
+                    </div>
+                    <!-- /menu profile quick info -->
+
+                    <br />
+
+                    <!-- sidebar menu -->
+                    <div id="sidebar-menu" class="main_menu_side hidden-print main_menu">
+                        <div class="menu_section">
+                            <h3>General</h3>
+                            <ul class="nav side-menu">
+                                <li>
+                                    <a><i class="fa fa-picture-o"></i> Catálogo <span class="fa fa-chevron-down"></span></a>
+                                    <ul class="nav child_menu">
+
+                                        <li><a href="@Url.Action("Index","Tipos")">Tipos de diseños</a></li>
+                                        <li><a href="@Url.Action("Index","Diseños")">Diseños</a></li>
+
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a><i class="fa fa-shopping-cart"></i> Transacciones <span class="fa fa-chevron-down"></span></a>
+                                    <ul class="nav child_menu">
+
+                                        <li><a href="@Url.Action("Index","Clientes")">Clientes</a></li>
+                                        <li><a href="@Url.Action("Index","DiseñoCarritos")">Carrito</a></li>
+                                        <li><a href="@Url.Action("Index","Transacciones")">Transacciones</a></li>
+
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- top navigation -->
+            <div class="top_nav">
+                <div class="nav_menu">
+                    <nav>
+                        <div class="nav toggle">
+                            <a id="menu_toggle"><i class="fa fa-bars"></i></a>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+            <!-- /top navigation -->
+            <!-- page content -->
+            <div class="right_col" role="main">
+
+                @RenderBody()
+
+            </div>
+            <!-- /page content -->
+            <!-- footer content -->
+            <footer>
+                <div class="pull-right">
+                    <p>&copy; @DateTime.Now.Year - Bulmaro Hernández. Todos los derechos reservados.</p>
+                </div>
+                <div class="clearfix"></div>
+            </footer>
+            <!-- /footer content -->
+        </div>
+
+    </div>
+    @Scripts.Render("~/Content/js")
+    @Scripts.Render("~/Template/js")
+    @RenderSection("styles", required: false)
+    @RenderSection("scripts", required: false)
+
+</body>
+</html>

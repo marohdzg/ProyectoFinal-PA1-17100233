@@ -1,0 +1,191 @@
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\ApplicationInsights.config
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\SistemaVentas.dll.config
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\SistemaVentas.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\SistemaVentas.pdb
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\csc.exe
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\csc.exe.config
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\csc.rsp
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\csi.exe
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\csi.rsp
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\System.AppContext.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\System.Collections.Immutable.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\System.IO.FileSystem.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\System.Reflection.Metadata.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\vbc.exe
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\vbc.exe.config
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\vbc.rsp
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\VBCSCompiler.exe
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\VBCSCompiler.exe.config
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\Antlr3.Runtime.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\Microsoft.AI.DependencyCollector.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\Microsoft.AI.Web.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\Microsoft.AI.WindowsServer.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\Microsoft.ApplicationInsights.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\Microsoft.Web.Infrastructure.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\Newtonsoft.Json.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\System.Web.Helpers.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\System.Web.Mvc.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\System.Web.Optimization.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\System.Web.Razor.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\System.Web.WebPages.Deployment.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\System.Web.WebPages.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\System.Web.WebPages.Razor.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\WebGrease.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\System.Web.Helpers.xml
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\System.Web.Mvc.xml
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\System.Web.Optimization.xml
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\System.Web.Razor.xml
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\System.Web.WebPages.xml
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\System.Web.WebPages.Deployment.xml
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\System.Web.WebPages.Razor.xml
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\Newtonsoft.Json.xml
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\Antlr3.Runtime.pdb
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\Microsoft.AI.DependencyCollector.xml
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\Microsoft.AI.WindowsServer.xml
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\Microsoft.AI.Web.xml
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\es\System.Web.Helpers.resources.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\es\System.Web.Mvc.resources.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\es\System.Web.Optimization.resources.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\es\System.Web.Razor.resources.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\es\System.Web.WebPages.resources.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csprojAssemblyReference.cache
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.CoreCompileInputs.cache
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.CopyComplete
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.pdb
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\ApplicationInsights.config
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\SistemaVentas.dll.config
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\SistemaVentas.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\SistemaVentas.pdb
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\roslyn\csc.exe
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\roslyn\csc.exe.config
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\roslyn\csc.rsp
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\roslyn\csi.exe
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\roslyn\csi.rsp
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\roslyn\System.AppContext.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\roslyn\vbc.exe
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\roslyn\vbc.exe.config
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\roslyn\vbc.rsp
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\roslyn\VBCSCompiler.exe
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\Antlr3.Runtime.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\Microsoft.AI.Web.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\Microsoft.ApplicationInsights.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\Newtonsoft.Json.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\System.Web.Helpers.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\System.Web.Mvc.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\System.Web.Optimization.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\System.Web.Razor.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\System.Web.WebPages.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\System.Web.WebPages.Razor.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\WebGrease.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\System.Web.Helpers.xml
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\System.Web.Mvc.xml
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\System.Web.Optimization.xml
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\System.Web.Razor.xml
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\System.Web.WebPages.xml
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\System.Web.WebPages.Razor.xml
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\Newtonsoft.Json.xml
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\Antlr3.Runtime.pdb
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\Microsoft.AI.Web.xml
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\es\System.Web.Helpers.resources.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\es\System.Web.Mvc.resources.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\es\System.Web.Optimization.resources.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\es\System.Web.Razor.resources.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\es\System.Web.WebPages.resources.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.CopyComplete
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.pdb
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\EntityFramework.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\EntityFramework.SqlServer.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\EntityFramework.xml
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\EntityFramework.SqlServer.xml
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Migrations.InitialCreate.resources
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.GenerateResource.cache
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Migrations.MostrarIDs.resources
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Migrations.IDS.resources
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Migrations.Disenos.resources
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Migrations.DisenosForeignKey.resources
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Migrations.imgurl1.resources
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Migrations.imgurl2.resources
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Migrations.imgurl3.resources
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Migrations.Cliente.resources
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Migrations.Clientes.resources
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Migrations.Clientess.resources
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Migrations.Clientesss.resources
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Migrations.Venta1.resources
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Migrations.Venta2.resources
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Migrations.VentaDetalle1.resources
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Migrations.VentaDetalle2.resources
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Migrations.VentaDetalle3.resources
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Migrations.VentaDetalle4.resources
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Migrations.VentaDetalle5.resources
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Migrations.VentaDetalle6.resources
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Migrations.Reinicio.resources
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Migrations.Transaccion.resources
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Migrations.Transaccion1.resources
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Migrations.Transaccion2.resources
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Migrations.CarritoListo1.resources
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Migrations.CarritoListo2.resources
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Migrations.CarritoListo4.resources
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\PagedList.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\PagedList.Mvc.dll
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\PagedList.xml
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\bin\PagedList.Mvc.xml
+C:\Users\maroh\OneDrive\Documents\7 A 2020\Programación Avanzada 1\P3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csprojAssemblyReference.cache

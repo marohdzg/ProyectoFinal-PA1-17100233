@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Maro.Models.Tipo>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h1>Tipos de diseños</h1>
+<br />
+
+<p>
+    @Html.ActionLink("Crear uno nuevo", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.TipoID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NombreTipo)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TipoID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NombreTipo)
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "Edit", new { id = item.TipoID }) |
+                @Html.ActionLink("Detalles", "Details", new { id = item.TipoID }) |
+                @Html.ActionLink("Eliminar", "Delete", new { id = item.TipoID })
+            </td>
+        </tr>
+    }
+
+</table>

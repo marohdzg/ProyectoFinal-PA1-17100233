@@ -1,0 +1,62 @@
+﻿@model IEnumerable<SistemaVentas.Models.DiseñoCarrito>
+
+@{
+    ViewBag.Title = "Carrito";
+}
+
+<h1>Carrito de compras</h1>
+
+<div class="jumbotron">
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.diseño.Descripcion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cantidad)
+            </th>
+            <th>
+                Precio unit.
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SubTotal)
+            </th>
+            <th>
+                Imagen
+            </th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.diseño.Descripcion)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Cantidad)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PrecioUnitario)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SubTotal)
+                </td>
+                <td>
+                    <img width="200" src="@Url.Action("getImage", "Diseños", new {id = item.DiseñoID})" />
+                </td>
+                <td>
+                    @Html.ActionLink("Eliminar", "Delete", item)
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>
+
+<h2>El total es: @Model.Sum(i => i.SubTotal).ToString("C") pesos mxn.</h2>
+<br />
+@if (SistemaVentas.Models.Carrito.lstDisenos.Count > 0)
+{
+    @Html.ActionLink("Pagar transacción", "Create", "Transacciones", null, new Dictionary<string, object>
+      { { "class", "btn btn-primary" } })
+}

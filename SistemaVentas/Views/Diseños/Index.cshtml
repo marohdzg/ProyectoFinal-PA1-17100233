@@ -1,0 +1,75 @@
+﻿@model PagedList.IPagedList<SistemaVentas.Models.Diseño>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h1>Diseños</h1>
+
+<br />
+<p>
+    @Html.ActionLink("Crear uno nuevo", "Create")
+</p>
+
+@using (Html.BeginForm("Index", "Diseños", "FormMethod.Get"))
+{
+    <p>
+        Hallar por descripción: @Html.TextBox("SearchString", ViewBag.CurrentFilter as string)
+        <input type="submit" value="Buscar" />
+    </p>
+}
+<table class="table">
+    <tr>
+        <th>
+            @Html.ActionLink("DiseñoID", "Index", new { sortOrder = ViewBag.OrdenDiseñoID, currentFilter = ViewBag.CurrentFilter })
+        </th>
+        <th>
+            Descripción
+        </th>
+        <th>
+            @Html.ActionLink("PrecioUnitario", "Index", new { sortOrder = ViewBag.OrdenPrecioUnitario, currentFilter = ViewBag.CurrentFilter })
+        </th>
+        <th>
+            Imagen
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            @using (Html.BeginForm("AgregarCarrito", "Diseños", FormMethod.Post))
+            {
+                <td>
+                    @Html.DisplayFor(modelItem => item.DiseñoID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Descripcion)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PrecioUnitario)
+                </td>
+                <td>
+                    <img width="200" src="@Url.Action("getImage", "Diseños", new { id = item.DiseñoID })" />
+                </td>
+                <td>
+                    <input type="submit" class="btn btn-default" id="submitId" value="Agregar al carrito" />
+                    @Html.TextBox("Cantidad", 1, new { @type = "number", min = "1", style = "width: 135px;" })
+                    @Html.HiddenFor(modelItem => item.DiseñoID)
+                </td>
+                <td>
+                    @Html.ActionLink("Editar", "Edit", new { id = item.DiseñoID }) |
+                    @Html.ActionLink("Detalles", "Details", new { id = item.DiseñoID }) |
+                    @Html.ActionLink("Eliminar", "Delete", new { id = item.DiseñoID })
+                </td>
+            }
+        </tr>
+    }
+</table>
+<br />
+Página @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) de @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("Index",
+    new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))
